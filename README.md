@@ -13,4 +13,4 @@ Check the output:
 I'm getting the model accuracy around 83%. 
 
 
-![alt-image](https://github.com/prishitakapoor/Traffic_Sign_Recognition/master/output.png)
+![alt-image](https://github.com/prishitakapoor/Traffic_Sign_Recognition/bob/master/output.png)
